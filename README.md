@@ -14,7 +14,7 @@ The repository contains the following:
 * Additional auxiliary functions used by the main script.
 
 ## How to run
-To run the experiments, execute the `Main_TSP_July.m` script. This script performs a sequence of experiments and writes the results to the `Results/` directory.
+To run the experiments, execute the `Main_TSP_July.m` script with the desired parameters. This script performs the experiments and writes the results to the `Results/` directory.
 
 ## License
 The code is available under the MIT license. See `LICENSE` for more details.
